@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018067324993",
+    "project_id": "ismek-odev-1",
+    "storage_bucket": "ismek-odev-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018067324993:android:ac1d03650b982e2636f6c0",
+        "android_client_info": {
+          "package_name": "com.argedik.ismek_odev_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018067324993-g56d4m7lvful185h9m1s9p43io3mgd6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argedik.ismek_odev_1",
+            "certificate_hash": "1cdf95642dedc24f8c29d6814af3196cbfda105b"
+          }
+        },
+        {
+          "client_id": "1018067324993-rk35u98kqo2gci953lp8t9vi09o53qfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDis4pe8IzNcv2crzfzS5zlNdNfKhnicv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018067324993-rk35u98kqo2gci953lp8t9vi09o53qfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
