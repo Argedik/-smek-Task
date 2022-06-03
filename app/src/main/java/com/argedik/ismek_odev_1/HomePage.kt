@@ -29,10 +29,13 @@ class HomePage : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         if(item.itemId ==R.id.add_post){
-            val intent = Intent(this@HomePage, MainActivity::class.java)
+            val intent = Intent(this@HomePage, AddPost::class.java)
             startActivity(intent)
         }else if(item.itemId == R.id.signout){
             auth.signOut()
+            val intent = Intent(this,MainActivity::class.java)
+            startActivity(intent)
+            finish()
         }
         return super.onOptionsItemSelected(item)
     }

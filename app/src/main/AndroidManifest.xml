@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.argedik.ismek_odev_1">
 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -18,9 +19,6 @@
             android:exported="false" />
         <activity
             android:name=".HomePage"
-            android:exported="false" />
-        <activity
-            android:name=".MainPage"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
