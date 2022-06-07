@@ -5,12 +5,13 @@
 
 Kısaca Firebase'e giriş, çıkış işlemleri, veri yükleme, veri çekme ve tasarımlar. Örnek resimler aşağıdaki gibidir...
 
-Giriş sayfası  
-<a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePage.png" align="left" height="500" width="280" ></a>
+Giriş sayfası;  
+<a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/Login.png" align="left" height="500" width="280" ></a>
 
-3. ödevin resmi;
+Ana Sayfa;  
+<a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePAge.png" align="left" height="500" width="280" ></a>
 
-![task3](task%203/asiankitchen/image/Screenshot%20from%202022-05-04%2012-18-49.png)
+Resim Yükleme;  
+<a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePAge.png" align="left" height="500" width="280" ></a>
 
-[Kodluyoruz](https://www.kodluyoruz.org/)  
-[Patika](https://www.patika.dev/)
+[Argedik](https://www.argedik.com/)  
