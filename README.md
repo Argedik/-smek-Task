@@ -7,8 +7,6 @@ Kısaca Firebase'e giriş, çıkış işlemleri, veri yükleme, veri çekme ve t
 
 denemee
 <a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePage.png" align="left" height="48" width="48" ></a>
-![image](https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePage.png = 250x250)
-![Login](images/Login.png | width=100)
 
 3. ödevin resmi;
 
