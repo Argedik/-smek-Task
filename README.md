@@ -5,7 +5,7 @@
 
 Kısaca Firebase'e giriş, çıkış işlemleri, veri yükleme, veri çekme ve tasarımlar. Örnek resimler aşağıdaki gibidir...
 
-denemee
+denemee 
 <a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePage.png" align="left" height="48" width="48" ></a>
 
 3. ödevin resmi;
