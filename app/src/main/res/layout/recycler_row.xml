@@ -14,7 +14,7 @@
         android:textSize="20sp"
         android:layout_margin="5dp"
         android:textAlignment="viewStart"
-        android:textColor="@color/purple_700"
+        android:textColor="@color/button_color"
         >
 
     </TextView>
@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:text="Test"
-        android:textColor="@color/purple_500"
+        android:textColor="@color/button_color"
         android:layout_margin="5dp"
         android:paddingTop="5dp"
         android:paddingBottom="5dp"
