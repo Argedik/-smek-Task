@@ -12,6 +12,6 @@ Ana Sayfa;
 <a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePAge.png" align="left" height="500" width="280" ></a>
 
 Resim Yükleme;  
-<a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePAge.png" align="left" height="500" width="280" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/UploadImages.png" align="left" height="500" width="280" ></a>
 
 [Argedik](https://www.argedik.com/)  
