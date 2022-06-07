@@ -6,7 +6,7 @@
 Kısaca Firebase'e giriş, çıkış işlemleri, veri yükleme, veri çekme ve tasarımlar. Örnek resimler aşağıdaki gibidir...
 
 
-![Login](images/Login.png)
+![Login](images/Login.png | width=100)
 
 3. ödevin resmi;
 
