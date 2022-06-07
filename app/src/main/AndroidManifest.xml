@@ -15,13 +15,13 @@
         android:theme="@style/Theme.Ismek_odev_1"
         tools:targetApi="31">
         <activity
-            android:name=".AddPost"
+            android:name=".view.AddPost"
             android:exported="false" />
         <activity
-            android:name=".HomePage"
+            android:name=".view.HomePage"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".view.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

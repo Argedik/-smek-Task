@@ -1,4 +1,4 @@
-package com.argedik.ismek_odev_1
+package com.argedik.ismek_odev_1.view
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         val currentUser=auth.currentUser
         if (currentUser != null){
-            val intent = Intent(this@MainActivity,HomePage::class.java)
+            val intent = Intent(this@MainActivity, HomePage::class.java)
             startActivity(intent)
             finish()
         }
@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         val password = binding.passwordText.text.toString()
         if (email.isNotEmpty() && password.isNotEmpty()){
             auth.signInWithEmailAndPassword(email, password).addOnSuccessListener {
-                val intent = Intent(this@MainActivity,HomePage::class.java)
+                val intent = Intent(this@MainActivity, HomePage::class.java)
                 startActivity(intent)
                 finish()
             }.addOnFailureListener {
@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
         val password = binding.passwordText.text.toString()
         if (email.isNotEmpty() && password.isNotEmpty()){
             auth.createUserWithEmailAndPassword(email,password).addOnSuccessListener {
-                val intent= Intent(this@MainActivity,HomePage::class.java)
+                val intent= Intent(this@MainActivity, HomePage::class.java)
                 startActivity(intent)
                 finish()
             }.addOnFailureListener {
