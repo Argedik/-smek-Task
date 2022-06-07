@@ -2,11 +2,11 @@
 İsmek ödevi
 
 
-![image](http://url.to/image.png = 250x250)
+
 Kısaca Firebase'e giriş, çıkış işlemleri, veri yükleme, veri çekme ve tasarımlar. Örnek resimler aşağıdaki gibidir...
 
 - ![Login](images/Login.png =250x250)
-
+![image](https://raw.githubusercontent.com/Argedik/Ismek-Task/main/images/HomePage.png = 250x250)
 ![Login](images/Login.png | width=100)
 
 3. ödevin resmi;
