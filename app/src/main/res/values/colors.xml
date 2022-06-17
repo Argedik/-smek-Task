@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="button_color">#03A9F4</color>
+    <color name="dot_indicator_down">#8A8989</color>
+    <color name="dot_indicator_up">#FF2020</color>
 </resources>

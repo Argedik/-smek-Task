@@ -6,4 +6,7 @@
     <item
         android:id="@+id/signout"
         android:title="Çıkış Yap" />
+    <item
+        android:id="@+id/slayt"
+        android:title="Slayt ve " />
 </menu>

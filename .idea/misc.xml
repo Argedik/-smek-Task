@@ -10,6 +10,8 @@
         <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.18125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
         <entry key="app/src/main/res/layout/activity_main_page.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/fragment_dot_indicator.xml" value="0.23097826086956522" />
+        <entry key="app/src/main/res/layout/fragment_dot_indicator_item.xml" value="0.23097826086956522" />
         <entry key="app/src/main/res/layout/recycler_row.xml" value="0.23097826086956522" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.18125" />
       </map>
